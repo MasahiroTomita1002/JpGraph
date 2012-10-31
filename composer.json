@@ -2,12 +2,6 @@
     "name": "jpgraph/jpgraph",
     "description": "JpGraph library",
     "minimum-stability": "dev",
-    "authors": [
-        {
-            "name": "Daniel Mecke",
-            "email": "daniel.mecke@cunningsoft.de"
-        }
-    ],
     "require": {
 
     }
